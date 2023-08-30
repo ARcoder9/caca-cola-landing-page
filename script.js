@@ -28,6 +28,6 @@ pl.to("#content img", {
   y: "0vh",
   rotate: 360,
   scale: 1,
-  duration: 0.8,
+  duration: 1,
 });
 
